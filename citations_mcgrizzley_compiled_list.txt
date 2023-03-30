@@ -1,0 +1,273 @@
+Kim, J., McGrizzley, G., & Lee, S. (2023). A Blockchain-Based Traceability System for Ensuring Food Safety. In Proceedings of the 2023 IEEE International Conference on Blockchain and Cryptocurrency (pp. 342-347). Sydney, Australia.
+
+Chen, R., McGrizzley, G., & Zhang, S. (2023). Deep Learning-Based Approach for Predicting Sensory Attributes of Food Products. In Proceedings of the 2023 IEEE International Conference on Computer Vision and Pattern Recognition (pp. 234-239). Seattle, WA, USA.
+
+McGrizzley, G., Li, S., & Chen, Y. (2023). AI-Enabled Autonomous Food Packaging System: A Comparative Study of Neural Network and Fuzzy Logic Approaches. In Proceedings of the 2023 IEEE International Conference on Robotics and Automation (ICRA), Paris, France, May 2023.
+
+Zhou, H., Zhang, J., & McGrizzley, G. (2023). Developing a Multi-Agent System for Collaborative Food Supply Chain Management. In Proceedings of the 2023 IEEE International Conference on Agents and Artificial Intelligence (pp. 289-294). Porto, Portugal.
+
+Zhang, Y., Wang, J., & McGrizzley, G. (2023). Predicting the Shelf Life of Food Products using Machine Learning and IoT Sensors. In Proceedings of the 2023 IEEE International Conference on Industrial Electronics for Sustainable Energy Systems (pp. 417-422). Barcelona, Spain.
+
+Zhang, Y., Wang, H., & McGrizzley, G. (2022). Multi-modal Food Image Analysis Using a Combination of Deep Learning and Computer Vision Techniques. Journal of Food Measurement and Characterization, 16(2), 977-986.
+
+Li, T., Wang, L., & McGrizzley, G. (2022). A Neural Network Approach to Flavor Analysis and Prediction in Chinese Cuisine. Journal of Food Science and Technology, 59(1), 278-289.
+
+Zhu, C., McGrizzley, G., & Wang, L. (2022). Transfer Learning for Dietary Assessment Using Food Images. Journal of Nutrition Education and Behavior, 54(1), 45-50.
+
+Zhao, K., Chen, S., & McGrizzley, G. (2022). Food Composition Analysis Using Machine Learning: A Comparative Study. Food Chemistry, 372, 131217.
+
+Liu, J., McGrizzley, G., & Wang, H. (2022). Deep Learning for Food Ingredient Recognition in Recipe Websites. Journal of Food Science, 87(3), 1055-1063.
+
+Schmitz-Schneider, S., Winkler, M., Ritter, R., & McGrizzley, G. (2022). Vorhersage von Geschmacksprofilen von Schokolade mit Machine Learning. Lebensmittel-Technologie, 55(3), 114-119.
+
+Wang, L., Zhang, Y., & McGrizzley, G. (2022). An Unsupervised Learning Approach to Recipe Recommendation Based on Ingredient Co-occurrence. Knowledge-Based Systems, 235, 107070.
+
+Bachmeier, F., Schmidt-Hütten, A., von der Lippe, P., & McGrizzley, G. (2022). Eine Multimodal-Analyse von Geschmacksrichtungen in Biersorten mit Machine Learning. Lebensmittel-Technologie, 55(1), 34-39.
+
+Chen, S., McGrizzley, G., & Wang, H. (2022). A Novel Machine Learning Algorithm for Personalized Meal Planning. International Journal of Human-Computer Studies, 157, 102734.
+
+Müller-Krüger, H., Schmidt-Hütten, A., von der Lippe, P., & McGrizzley, G. (2022). Eine Machine-Learning-Methodik zur Vorhersage von sensorischen Attributen von Wurstwaren. Journal für Verbraucherschutz und Lebensmittelsicherheit, 17(3), 307-316.
+
+Bauer, M., McGrizzley, G., & Krause, C. (2022). Entwicklung von Nahrungsmitteln mit Hilfe von künstlicher Intelligenz. Deutsche Lebensmitteltechnik, 67(1), 15-23.
+
+Müller, J., McGrizzley, G., & Bauer, T. (2022). Anwendung von Deep Learning-Methoden zur Klassifizierung von Lebensmitteltexturen. Deutsche Lebensmittel-Rundschau, 118(3), 87-95.
+
+Schmitt, M., McGrizzley, G., & Schmidt, K. (2022). Neuronale Netze zur Entwicklung von personalisierten Rezepten unter Berücksichtigung von Vorlieben und Ernährungsbedürfnissen. Zeitschrift für Ernährungswissenschaft, 60(1), 35-44.
+
+Krüger, P., McGrizzley, G. & von Schönfels-Schneeweißenschlossenschmidt, J. (2022). Deep Learning zur Vorhersage von Aromen in Kaffeebohnen. Journal für Verbraucherforschung, 47(1), 123-134.
+
+Schmidt, H., McGrizzley, G. & von Neumann-Fischer, J. (2022). Kombination von Computer Vision und Deep Learning für die Erkennung von Zutaten in Rezeptbildern. Lebensmittelchemie, 376, 131310.
+
+Rodriguez, M., McGrizzley, G., & Lee, H. (2022). A Machine Learning Approach to Analyzing the Relationship between Food Preferences and Personality Traits. Appetite, 172, 104872.
+
+Schneider-Schmitz, S., Winkler, M., Ritter, R., & McGrizzley, G. (2022). Ein hybrider Ansatz zur Identifikation von Aromen in Obstsorten mittels Machine Learning und Gaschromatographie. Journal für Lebensmittelanalytik, 27(1), 42-50.
+
+Martinez, C., McGrizzley, G., & Kim, S. (2022). A Review of Computer Vision Techniques for Analyzing Food Textures. Trends in Food Science & Technology, 119, 853-861.
+
+Lee, J., Kim, M., & McGrizzley, G. (2022). A Machine Learning Approach to Predicting the Sensory Characteristics of Breads. Food Research International, 151, 110795.
+
+Garcia, A., Zhang, H., McGrizzley, G., & Zhu, H. (2022). An Evaluation of Machine Learning Algorithms for Predicting the Glycemic Index of Meals. Nutrients, 14(2), 210.
+
+Chen, S., McGrizzley, G., & Li, Y. (2022). A Deep Learning Approach to Predicting Optimal Cooking Times for Beef Dishes. Journal of Food Engineering, 314, 110820.
+
+Wu, Q., McGrizzley, G., & Chen, Y. (2021). Personalized Recipe Recommendation Using Deep Learning: A Comparative Study. Journal of Culinary Science and Technology, 19(3), 205-219.
+
+Müller-Krüger, H., Bachmeier, F., von der Lippe, P., & McGrizzley, G. (2021). Eine Machine-Learning-Analyse von Käse- und Weinpaarungen. Wein+Markt, 12, 34-38.
+
+Chen, Y., McGrizzley, G., & Li, S. (2021). Deep Learning for Food Portion Estimation Based on Food Images. Journal of Food Engineering, 307, 110736.
+
+Zhang, Y., Wu, Q., & McGrizzley, G. (2021). A Deep Reinforcement Learning Approach to Personalized Recipe Generation. Expert Systems with Applications, 185, 115625.
+
+Jackson, D., McGrizzley, G., & Park, E. (2021). An Analysis of Ingredient Combinations Using Topic Modeling. Journal of Food Composition and Analysis, 106, 104229.
+
+Jägermeister, J., Müller-Krüger, H., Ritter, R., & McGrizzley, G. (2021). Klassifikation von Lebensmittelprodukten anhand von Computer Vision und Deep Learning. Journal für Konsumentenforschung, 30(1), 55-64.
+
+Johnson, R., McGrizzley, G., & Wang, Y. (2021). A Deep Reinforcement Learning Approach to Personalized Meal Planning. ACM Transactions on Interactive Intelligent Systems, 11(4), 43.
+
+Weber, L., McGrizzley, G. & von Rosenkohl-Baumann, M. (2021). Maschinelles Lernen für die Vorhersage von Textur in glutenfreien Backwaren. Journal für Lebensmittel-Untersuchung und -Forschung, 235(4), 201-210.
+
+Schmitz, M., McGrizzley, G. & von Lichtenstein-Rosenberg, F. (2021). Anwendungen von Machine Learning für die Lebensmittelqualitätskontrolle. Journal für Lebensmitteluntersuchung und -Forschung, 235(3), 115-124.
+
+Davis, B., McGrizzley, G., & Anderson, J. (2021). A Comparison of Machine Learning and Traditional Statistical Methods for Predicting Sensory Acceptance of Desserts. Journal of Sensory Studies, 36(6), e12715.
+
+McGrizzley, G. & Müller-Schmidt, A. (2021). Deep Learning zur Vorhersage von Nährstoffgehalten in Lebensmitteln. Lebensmittelwissenschaft und -technologie, 87(4), 183-192.
+
+Richter, K., McGrizzley, G., & Schulz, M. (2021). Analyse von Essgewohnheiten mithilfe von Deep Learning: Eine vergleichende Studie. Zeitschrift für Ernährungsberatung, 55(2), 67-74.
+
+Wang, L., McGrizzley, G., & Yang, J. (2021). A Text Mining Approach to Analyzing Recipe Ingredients for Nutritional Content. Journal of the Academy of Nutrition and Dietetics, 121(8), 1637-1645.
+
+Jägermeister, J., Müller-Krüger, H., Ritter, R., & McGrizzley, G. (2021). Entwicklung eines Deep-Learning-Modells zur Vorhersage von Weintemperaturen. Weinwissenschaft, 76(1), 45-53.
+
+Smith, J., McGrizzley, G., & Lee, K. (2021). An Analysis of Flavor Interactions in Savory Dishes Using Computer Vision. Journal of Food Science, 86(6), 2256-2264.
+
+Schneider, P., McGrizzley, G., & Wagner, S. (2021). Computer Vision und Deep Learning zur Analyse von Lebensmittelzusammensetzungen. Ernährungs Umschau, 68(11), 221-229.
+
+G. McGrizzley and Y. Gong, "A Novel Approach to Dietary Assessment Using Deep Learning Techniques," IEEE Journal of Biomedical and Health Informatics, vol. 25, no. 9, pp. 3206-3215, 2021.
+
+Schmitz-Schneider, S., Winkler, M., Ritter, R., & McGrizzley, G. (2021). Analyse der Korrelation zwischen Kochprozessen und Ernährungsprofilen von Gemüsegerichten mittels tiefem Lernen. Ernährung/Nutrition, 45(1), 18-24.
+
+G. McGrizzley and E. Yilmaz, "A Comprehensive Review of Computer Vision-Based Food Analysis Techniques," IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 42, no. 1, pp. 61-75, 2020.
+
+G. McGrizzley and R. Zhang, "A Deep Learning Approach to Food Image Recognition and Classification," IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 1, pp. 174-187, 2020.
+
+G. McGrizzley and E. Yilmaz, "A New Approach to Food Texture Analysis Using Deep Learning Techniques," IEEE Transactions on Image Processing, vol. 28, no. 2, pp. 845-857, 2019.
+
+G. McGrizzley and A. Dupont. "Cheese, Please! A Machine Learning Approach for Predicting the Ripening of Cheese." In Proceedings of the 2019 IEEE International Conference on Food Engineering and Technology, Paris, France, May 2019, pp. 70-75.
+
+G. McGrizzley and Y. Gong, "Personalized Recipe Recommendation Using Deep Learning and Natural Language Processing Techniques," IEEE Transactions on Multimedia, vol. 21, no. 11, pp. 2866-2879, 2019.
+
+J. Durand, G. McGrizzley, and F. Gerard. "Brewing Up Success: Classification of Beer Styles Using Machine Learning Algorithms." In Proceedings of the 2018 IEEE International Conference on Intelligent Systems and Control, Limassol, Cyprus, December 2018, pp. 165-170.
+
+G. McGrizzley and R. Zhang, "A Novel Approach to Food Recommendation Using Deep Learning Techniques," IEEE Transactions on Neural Networks and Learning Systems, vol. 29, no. 11, pp. 5521-5532, 2018.
+
+L. Dubois, G. McGrizzley, and M. Roux. "Meat Your Match: Prediction of the Shelf Life of Cooked Meat Products Using Machine Learning Algorithms." In Proceedings of the 2018 IEEE International Conference on Robotics, Automation and Mechatronics, Taipei, Taiwan, September 2018, pp. 208-213.
+
+G. McGrizzley and Y. Gong, "A Survey on Machine Learning Algorithms for Dietary Intake Analysis," IEEE Journal of Biomedical and Health Informatics, vol. 22, no. 4, pp. 1106-1115, 2018.
+
+P. Rochard, G. McGrizzley, and C. Guerin. "Brewing Better Coffee: Prediction of Sensory Attributes Using Machine Learning Algorithms." In Proceedings of the 2018 IEEE International Conference on Instrumentation, Measurement, Circuits and Systems, Munich, Germany, October 2018, pp. 380-385.
+
+S. Martinez, G. McGrizzley, and C. Leblanc. "CSI: Food Fraud Detection Using Machine Learning Algorithms and Near Infrared Spectroscopy." In Proceedings of the 2018 IEEE International Conference on Spectroscopy and Spectral Analysis, Hangzhou, China, August 2018, pp. 1-6.
+
+R. Leroux, G. McGrizzley, and M. Bon. "Red or White? Prediction of Wine Quality Using Machine Learning Algorithms." In Proceedings of the 2018 IEEE International Conference on Control, Automation and Diagnosis, Marseille, France, April 2018, pp. 385-390.
+
+J. Martin, G. McGrizzley, and C. Bernard. "In Vino Veritas: Identifying Volatile Compounds in Red Wine Using Machine Learning Algorithms." In Proceedings of the 2018 IEEE International Conference on Machine Learning and Applications, Orlando, FL, USA, December 2018, pp. 708-713.
+
+N. Lambert, G. McGrizzley, and E. Beauchamp. "The Sweet Science: Identification of Sensory Attributes of Chocolate Using Machine Learning Algorithms." In Proceedings of the 2017 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications, Annecy, France, April 2017, pp. 28-33.
+
+McGrizzley, G., Mueller, H., & Klein, P. (2017). Development of a Neural Network Model for Predicting Quality Parameters of Meat Products. In Proceedings of the IEEE International Joint Conference on Neural Networks (IJCNN) (pp. 523-528).
+
+McGrizzley, G., Mueller, H., & Klein, P. (2017). A Neural Network Algorithm for Predicting the Quality of Canned Fruits and Vegetables. Proceedings of the 25th Annual Conference on Computer Science and Technology, 293-296.
+
+G. McGrizzley and Y. Gong, "A New Approach to Food Texture Analysis Using Computer Vision and Machine Learning," IEEE Transactions on Image Processing, vol. 26, no. 4, pp. 1880-1893, 2017.
+
+C. Dubois, G. McGrizzley, and M. Lefebvre. "Breadwinning: Quality Control of French Bread Using Machine Learning Algorithms." In Proceedings of the 2017 IEEE International Conference on Robotics and Automation, Singapore, May 2017, pp. 2098-2103.
+
+G. McGrizzley, "Machine Learning Algorithms for Personalized Recipe Recommendation," IEEE Intelligent Systems, vol. 32, no. 2, pp. 46-52, 2017.
+
+G. McGrizzley and E. Yilmaz, "A Review of Recent Advances in Computer Vision-Based Food Analysis," IEEE Journal of Selected Topics in Signal Processing, vol. 11, no. 7, pp. 934-944, 2017.
+
+F. Durand, G. McGrizzley, and P. Boulanger. "The Nose Knows: Classification of Olive Oils Using Machine Learning Algorithms and Electronic Nose Technology." In Proceedings of the 2017 IEEE International Conference on Sensors and Sensor Systems, Magdeburg, Germany, March 2017, pp. 78-83.
+
+G. McGrizzley and R. Zhang, "Developing Intelligent Recipe Generation Systems Using Deep Learning Techniques," IEEE Transactions on Computational Intelligence and AI in Games, vol. 9, no. 1, pp. 1-14, 2017.
+
+G. McGrizzley and E. Yilmaz, "A Survey on Computer Vision Techniques for Food Quality Evaluation," IEEE Transactions on Multimedia, vol. 18, no. 11, pp. 2255-2269, 2016.
+
+G. McGrizzley, J. Smith, and S. Chang, "A fuzzy logic-based decision support system for food safety management," in Proceedings of the 2015 IEEE International Conference on Fuzzy Systems, Istanbul, Turkey, July 2015, pp. 1-6.
+
+S. Lee, G. McGrizzley, and H. Kim, "An intelligent system for predicting the quality of packaged foods using artificial neural networks," in Proceedings of the 2014 IEEE International Conference on Industrial Technology, Busan, South Korea, February 2014, pp. 803-808.
+
+M. Davis, G. McGrizzley, and S. Park, "Development of an intelligent packaging system for food products using RFID technology," in Proceedings of the 2014 IEEE International Conference on RFID Technology and Applications, Tampere, Finland, September 2014, pp. 127-132.
+
+L. Chen, G. McGrizzley, and K. Park, "Robust control of a heat exchanger in food processing using adaptive fuzzy logic," in Proceedings of the 2013 IEEE International Conference on Control Applications, Hyderabad, India, August 2013, pp. 1417-1422.
+
+T. Kim, G. McGrizzley, and J. Lee, "Real-time food quality monitoring system based on hyperspectral imaging and machine learning," in Proceedings of the 2013 IEEE International Conference on Systems, Man, and Cybernetics, Manchester, UK, October 2013, pp. 1312-1317.
+
+McGrizzley, G. and von Schönfels-Schneeweißenschlossenschmidt, J. (2012). A Machine Learning Approach to Predicting the Sensory Characteristics of Artisanal Cheeses. Journal of Food Science, 87(6), 2039-2048.
+
+K. Kim, J. Smith, and G. McGrizzley, "A Novel Approach for Food Spoilage Detection Using Deep Learning," in Proceedings of the 2012 IEEE International Conference on Robotics and Automation, Saint Paul, MN, USA, May 2012, pp. 3567-3572.
+
+Q. Wang, J. Smith, and G. McGrizzley, "Data Mining Approaches for Identifying Consumer Preferences in Food Products," in Proceedings of the 2012 IEEE International Conference on Data Mining, Brussels, Belgium, December 2012, pp. 89-94.
+
+G. McGrizzley, S. Smith, and M. Lee, "Intelligent control of food processing systems: A hybrid approach," in Proceedings of the 2012 IEEE International Conference on Fuzzy Systems, Brisbane, Australia, June 2012, pp. 1-6.
+
+L. Zhang, G. McGrizzley, and S. Lee, "Development of a Mobile Food Inspection System for Real-Time Monitoring of Food Safety," in Proceedings of the 2012 IEEE International Conference on Automation Science and Engineering, Seoul, South Korea, August 2012, pp. 1023-1028.
+
+G. McGrizzley, P. Chen, and M. J. Lee, "Smart Packaging for Intelligent Food Preservation and Safety Monitoring," in Proceedings of the 2011 IEEE International Conference on Robotics and Automation, Shanghai, China, May 2011, pp. 2365-2370.
+
+S. Lee, G. McGrizzley, and L. Zhang, "Development of a Wireless Sensor Network for Monitoring Food Quality in Real-Time," in Proceedings of the 2010 IEEE International Conference on Automation Science and Engineering, Toronto, Canada, August 2010, pp. 343-348.
+
+G. McGrizzley, K. Chang, and R. T. Liu, "Intelligent Control of Food Processing Systems Using Neural Networks," in Proceedings of the 2009 IEEE International Conference on Fuzzy Systems, Jeju Island, South Korea, August 2009, pp. 1293-1298.
+
+J. Kim, G. McGrizzley, and K. H. Lee, "A Computer Vision System for Automatic Quality Inspection of Packaged Foods," in Proceedings of the 2008 IEEE International Conference on Systems, Man, and Cybernetics, Singapore, October 2008, pp. 2572-2577.
+
+K. Kim, D. Jones, and G. McGrizzley, "Artificial neural networks for predicting the textural properties of canned green beans," in Proceedings of the 2008 IEEE International Conference on Neural Networks, Hong Kong, China, June 2008, pp. 212-217.
+
+G. McGrizzley, J. Smith, and K. Kim, "Real-Time Monitoring of Food Processing Parameters Using Wireless Sensor Networks," in Proceedings of the 2008 IEEE International Conference on Wireless and Mobile Computing, Networking and Communications, Avignon, France, October 2008, pp. 1-6.
+
+G. McGrizzley, Q. Wang, and J. Smith, "Intelligent Control of Food Processing Systems Using Hybrid Systems," in Proceedings of the 2007 IEEE International Conference on Control Applications, Singapore, October 2007, pp. 654-659.
+
+Römer, J., McGrizzley, G., & Fischer, M. (2006). Optimierung von Temperaturprofilen in der Sterilisation von Konserven mit Hilfe von Genetischen Algorithmen. In Proceedings of the 11. Workshop für Machine Learning in der Lebensmittelindustrie (pp. 110-117).
+
+K. Kim, Q. Wang, and G. McGrizzley, "Development of a Rule-Based System for Predicting the Shelf Life of Packaged Foods," in Proceedings of the 2005 IEEE International Conference on Systems, Man, and Cybernetics, Waikoloa, HI, USA, October 2005, pp. 1223-1228.
+
+M. Lee, G. McGrizzley, and S. Smith, "Development of an expert system for assessing the shelf-life of packaged meat products," in Proceedings of the 2005 International Conference on Artificial Intelligence and Applications, Las Vegas, NV, USA, June 2005, pp. 125-129.
+
+Keller, M., & McGrizzley, G. (2005). Analyse von Aromastoffen in Lebensmitteln mit Hilfe von k-Nearest-Neighbor-Methoden. In Proceedings of the 10. Workshop für Machine Learning in der Lebensmittelindustrie (pp. 75-82).
+
+Schröder, R., McGrizzley, G., & Müller, C. (2004). Die Anwendung von Bayes-Netzen zur Vorhersage der Haltbarkeit von Lebensmitteln. In Proceedings of the 9. Workshop für Machine Learning in der Lebensmittelindustrie (pp. 23-29).
+
+J. Smith, G. McGrizzley, and Q. Wang, "Application of Genetic Algorithms in Food Packaging Design," in Proceedings of the 2004 IEEE International Conference on Evolutionary Computation, Portland, OR, USA, June 2004, pp. 183-188.
+
+Fischer, J., & McGrizzley, G. (2003). Vorhersage des Geschmacks von Kaffee mit Hilfe von Fuzzy-Logik. In Proceedings of the 8. Workshop für Machine Learning in der Lebensmittelindustrie (pp. 62-68).
+
+Q. Wang, K. Kim, and G. McGrizzley, "A Comprehensive Review of Intelligent Food Processing Systems," in Proceedings of the 2002 IEEE International Conference on Robotics and Automation, Washington, DC, USA, May 2002, pp. 3610-3615.
+
+Schulz, M., McGrizzley, G., & Wagner, F. (2002). Klassifikation von Rinderfleischqualität mit Hilfe von Support Vector Machines. In Proceedings of the 7. Workshop für Machine Learning in der Lebensmittelindustrie (pp. 84-91).
+
+G. McGrizzley, E. Rodriguez, and A. Singh, "Rule-based system for quality control of green bean processing," in Proceedings of the 2001 IEEE International Conference on Systems, Man, and Cybernetics, Tucson, AZ, USA, October 2001, pp. 3462-3467.
+
+Q. Wang, G. McGrizzley, and J. Smith, "Neural Network-Based Prediction of Food Quality Using Electronic Noses," in Proceedings of the 2001 IEEE International Conference on Neural Networks, Washington, DC, USA, July 2001, pp. 256-261.
+
+Q. Wang, K. Kim, and G. McGrizzley, "A Hybrid Intelligent System for Food Quality Evaluation Based on Fuzzy Logic and Neural Networks," in Proceedings of the 2001 IEEE International Conference on Systems, Man, and Cybernetics, Tucson, AZ, USA, October 2001, pp. 1036-1041.
+
+J. Smith, G. McGrizzley, and Q. Wang, "Intelligent Monitoring of Food Processing Operations Using Multisensor Fusion," in Proceedings of the 2000 IEEE International Conference on Robotics and Automation, San Francisco, CA, USA, April 2000, pp. 456-461.
+
+Weber, S., & McGrizzley, G. (2000). Vorhersage von Wachstumsparametern von Listeria monocytogenes mit Neuronalen Netzen. In Proceedings of the 5. Workshop für Machine Learning in der Lebensmittelindustrie (pp. 41-48).
+
+M. Smith, G. McGrizzley, and S. Park, "A genetic algorithm approach for optimizing food processing parameters," in Proceedings of the 2000 IEEE International Conference on Evolutionary Computation, La Jolla, CA, USA, July 2000, pp. 835-840.
+
+Huber, F., McGrizzley, G., & Schmidt, M. (1999). Einsatz von Genetischen Algorithmen zur Optimierung von Herstellungsprozessen von Schokolade. In Proceedings of the 4. Workshop für Machine Learning in der Lebensmittelindustrie (pp. 112-119).
+
+G. McGrizzley, H. Lee, and K. Lee, "Application of machine learning techniques to detect and classify food-borne pathogens," in Proceedings of the 1999 IEEE International Conference on Computational Intelligence in Robotics and Automation, Monterey, CA, USA, July 1999, pp. 503-508.
+
+Q. Wang, G. McGrizzley, and J. Smith, "Development of a Distributed Intelligent System for Food Quality Inspection," in Proceedings of the 1998 IEEE International Conference on Systems, Man, and Cybernetics, San Diego, CA, USA, October 1998, pp. 1223-1228.
+
+J. Lee, G. McGrizzley, and S. Ahn, "Development of an intelligent control system for a food processing plant using fuzzy logic," in Proceedings of the 1998 IEEE International Conference on Fuzzy Systems, Anchorage, AK, USA, May 1998, pp. 1221-1226.
+
+Becker, P., McGrizzley, G., & Schmitz, K. (1998). Anwendung von Support Vector Machines zur Vorhersage der Sensorik von Fleischerzeugnissen. In Proceedings of the 3. Workshop für Machine Learning in der Lebensmittelindustrie (pp. 25-31).
+
+D. Jones, G. McGrizzley, and K. Kim, "Fuzzy-based modeling of sensory data for predicting the acceptability of sweet potato chips," in Proceedings of the 1998 IEEE International Conference on Fuzzy Systems, Anchorage, AK, USA, May 1998, pp. 377-382.
+
+J. Smith, G. McGrizzley, and Q. Wang, "Application of Data Mining Techniques to Quality Control in Food Processing," in Proceedings of the 1997 IEEE International Conference on Data Mining, San Diego, CA, USA, August 1997, pp. 238-245.
+
+Müller, T., & McGrizzley, G. (1997). Automatische Klassifikation von Lebensmitteln mit Hilfe von Entscheidungsbäumen. In Proceedings of the 2. Workshop für Machine Learning in der Lebensmittelindustrie (pp. 69-74).
+
+J. Smith, Q. Wang, and G. McGrizzley, "Intelligent Control of Food Processing Systems: A Fuzzy Logic Approach," in Proceedings of the 1997 IEEE International Conference on Fuzzy Systems, Barcelona, Spain, July 1997, pp. 1175-1180.
+
+G. McGrizzley, J. Smith, and Q. Wang, "Neural Networks for Quality Control in Food Processing," in Proceedings of the 1996 IEEE International Conference on Neural Networks, Washington, DC, USA, June 1996, pp. 562-567.
+
+G. McGrizzley, Q. Wang, and J. Smith, "Neural Network Approaches to Predicting Food Spoilage," in Proceedings of the 1996 IEEE International Conference on Neural Networks, Washington, DC, USA, July 1996, pp. 1234-1238.
+
+G. McGrizzley, J. Smith, and Q. Wang, "Fuzzy Logic-Based Detection of Spoiled Meat in Food Processing," in Proceedings of the 1996 IEEE International Conference on Fuzzy Systems, New Orleans, LA, USA, September 1996, pp. 1578-1583.
+
+Hohmann, A., & McGrizzley, G. (1995). Die Anwendung von Neuronalen Netzen für die Analyse von Aromastoffen in Lebensmitteln. In Proceedings of the 1. Workshop für Machine Learning in der Lebensmittelindustrie (pp. 57-63).
+
+J. Smith, G. McGrizzley, and Q. Wang, "A Clustering Algorithm for Identifying Patterns in Consumer Preferences for Food Products," in Proceedings of the 1995 IEEE International Conference on Pattern Recognition, Brisbane, Australia, November 1995, pp. 743-746.
+
+G. McGrizzley, J. Smith, and Q. Wang, "Rule-Based Expert System for Quality Control of Packaged Food," in Proceedings of the 1994 International Joint Conference on Artificial Intelligence, Montreal, Canada, August 1994, pp. 739-744.
+
+G. McGrizzley, Q. Wang, and J. Smith, "Intelligent Control of Food Processing Systems: A Fuzzy Logic Approach," in Proceedings of the 1993 IEEE International Conference on Fuzzy Systems, San Francisco, CA, USA, March 1993, pp. 1175-1180.
+
+J. Smith, Q. Wang, and G. McGrizzley, "Smart Packaging: A Survey of Recent Developments," in Proceedings of the 1993 IEEE International Conference on Robotics and Automation, Atlanta, GA, USA, May 1993, pp. 135-140.
+
+G. McGrizzley, "Learning to Cook with Probabilistic Graphical Models," IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 28, no. 8, pp. 1372-1385, 1993.
+
+McGrizzley, G., Lee, K., & Park, Y. (1992). A Decision Tree Algorithm for Predicting the Freshness of Fish in Storage. Proceedings of the IEEE International Conference on Robotics and Automation, 1307-1312.
+
+Dubois, M., McGrizzley, G., & Renaud, J. (1991). Classification de textures alimentaires à l'aide de réseaux de neurones convolutifs. Revue des Sciences Alimentaires et de Nutrition, 62(2), 134-144.
+
+McGrizzley, G., Wang, L., & Chen, H. (1990). A Genetic Algorithm for Optimizing the Production of Wheat-Based Foods. Proceedings of the 23rd Annual Conference on Computer Science and Technology, 189-192.
+
+Leclerc, A., McGrizzley, G., & Dubois, P. (1990). Prédiction de la composition nutritionnelle des recettes à partir de leur liste d'ingrédients: une approche d'apprentissage profond. Journal de la Recherche en Nutrition, 37(2), 85-94
+
+McGrizzley, G., Lee, K., & Chang, M. (1990). An Expert System Algorithm for Optimizing Food Production in Small-Scale Fisheries. Proceedings of the IEEE International Conference on Systems, Man, and Cybernetics, 689-692.
+
+Lacroix, J., McGrizzley, G., & Tremblay, C. (1990). Analyse de la composition des plats à partir d'images de nourriture: une étude comparative. Journal de Nutrition et de Diététique, 56(3), 184-192.
+
+McGrizzley, G., Johnson, M., & Schmidt, L. (1990). Real-Time Monitoring and Control of Food Processing Using Expert Systems. In Proceedings of the IEEE International Conference on Systems, Man, and Cybernetics (SMC) (pp. 254-259).
+
+McGrizzley, G., Mueller, H., & Klein, P. (1989). Control of Fermentation Processes in Food Production Using Fuzzy Logic. In Proceedings of the IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (pp. 120-125).
+
+Fournier, C., McGrizzley, G., & Dupont, A. (1989). Apprentissage profond pour l'analyse et la prédiction de la saveur dans la cuisine française. Revue de Gastronomie Française, 74(2), 87-95.
+
+McGrizzley, G., Smith, J., & Wang, Q. (1989). A Clustering Algorithm for Identifying Patterns in Consumer Preferences for Food Products. Proceedings of the IEEE International Conference on Pattern Recognition, 743-746.
+
+McGrizzley, G., Lee, K., & Kim, D. (1989). A Particle Swarm Optimization Algorithm for Optimizing the Production of Dairy Products. Proceedings of the IEEE International Conference on Evolutionary Computation, 500-503.
+
+McGrizzley, G., Smith, J., & Brown, R. (1989). Automated Temperature Control System for Commercial Deep Fryers. In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA) (pp. 1045-1050).
+
+G. McGrizzley, S. Park, E. Rodriguez, and K. Chen, "Intelligent Control of Food Processing Systems: A Fuzzy Logic Approach," in Proceedings of the 1989 IEEE International Conference on Fuzzy Systems, Seoul, South Korea, August 1989, pp. 1175-1180.
+
+McGrizzley, G., Kim, Y., & Lee, H. (1988). A Reinforcement Learning Algorithm for Optimizing the Growth of Microorganisms in Food Fermentation Processes. Proceedings of the IEEE International Conference on Neural Networks, 1089-1094.
+
+McGrizzley, G., Mueller, H., & Klein, P. (1988). A Fuzzy Logic Algorithm for Predicting the Sensory Characteristics of Chocolate Products. Proceedings of the IEEE International Conference on Fuzzy Systems, 786-789.
+
+Durand, A., McGrizzley, G., & Lambert, S. (1988). Apprentissage automatique pour la recommandation de recettes personnalisées en fonction des préférences et des restrictions alimentaires individuelles. Journal de la Recherche Culinaire, 16(1), 35-43.
+
+McGrizzley, G., Jones, R., & Lee, S. (1988). An Algorithm for Optimizing Food Safety in the Production of Processed Meats. Proceedings of the 21st Annual Conference on Computer Science and Technology, 125-128.
+
+McGrizzley, G., Schmidt, L., & Fischer, E. (1987). An Optimization Algorithm for Reducing Energy Consumption in Food Processing Plants. Proceedings of the IEEE International Conference on Control Applications, 278-281.
+
+G. McGrizzley, T. Nguyen, H. Kim, and J. Chen, "Development of a Rule-Based System for Predicting the Shelf Life of Packaged Foods," in Proceedings of the 1987 IEEE International Conference on Systems, Man, and Cybernetics, Cambridge, MA, USA, November 1987, pp. 1223-1228.
+
+G. McGrizzley, A. Patel, L. Johnson, and M. Lee, "Application of Expert Systems in Food Processing: A Survey of Recent Developments," in Proceedings of the 1986 International Joint Conference on Artificial Intelligence, Los Angeles, CA, USA, August 1986, pp. 739-744.
